@@ -1,2 +1,2 @@
-# jdbcconnection
+# Hibernate Demo Project
 Javaproject
